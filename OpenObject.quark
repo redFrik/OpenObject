@@ -5,6 +5,7 @@
 	\version:		"0.2",
 	\author: 		"Julian Rohrhuber, Fredrik Olofsson",
 	\country: 		"Germany",
+	\schelp: 		"OpenObject",
 	\since: 		"2009",
 	\status:		"stable"
 )
